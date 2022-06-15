@@ -1,1 +1,2 @@
-# Bone Age baseline code (PyTorch)
+# SwinT + HD-CNN Multi Loss model 
+
